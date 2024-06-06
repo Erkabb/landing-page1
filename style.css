@@ -322,7 +322,9 @@ button {
   height: 68px;
   color: rgba(255, 255, 255, 1);
   font-size: 28px;
+  text-decoration: none;
 }
+
 .fb button {
   background-color: rgba(48, 48, 48, 1);
   width: 157px;
@@ -334,4 +336,5 @@ button {
 }
 a {
   color: #ffffff;
+  text-decoration: none;
 }
